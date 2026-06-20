@@ -22,7 +22,7 @@ vpc_id            = module.vpc.vpc_id
  allowed_ssh_cidr = ["0.0.0.0/0"]   
 }
 
-
+ 
 # ────────────────────────────
 # frontend ec2 instance public
 # ─────────────────────────────
